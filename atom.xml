@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bored2020.github.io</id>
+    <title>冯裕祺的网站</title>
+    <updated>2026-06-11T13:54:36.270Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bored2020.github.io"/>
+    <link rel="self" href="https://bored2020.github.io/atom.xml"/>
+    <subtitle>我思故我在</subtitle>
+    <logo>https://bored2020.github.io/images/avatar.png</logo>
+    <icon>https://bored2020.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, 冯裕祺的网站</rights>
+    <entry>
+        <title type="html"><![CDATA[关于“愤怒”这件事]]></title>
+        <id>https://bored2020.github.io/post/guan-yu-fen-nu-zhe-jian-shi/</id>
+        <link href="https://bored2020.github.io/post/guan-yu-fen-nu-zhe-jian-shi/">
+        </link>
+        <updated>2026-06-10T15:14:56.000Z</updated>
+        <content type="html"><![CDATA[<p>你还记得自己上一次什么时候“愤怒”吗？也许是今天工作的时候被同事或者上司弄到无语，也许是送外卖的小哥把自己的外卖没有按时送达，又或者是各种不顺心，不开心的事情。对于产生愤怒，我们并不觉得陌生，愤怒是人正常的情绪，除非自己佛系到一定程度，或者生活中的事情确实没有值得去愤怒。但是，上一次表达出来愤怒是什么时候呢。</p>
+<h2 id="被掩盖的愤怒">被掩盖的愤怒</h2>
+<p>在国内的环境中，从小基本都是被教育着“仁义礼智信”，要与人友善，小时候尚且能够靠着人的本性去表达喜欢，愤怒，讨厌，但是一旦完成了社会化之后，我们每次的“愤怒”更多的是埋藏在心里，在每次心里感到愤怒之后，开始评估，我是不是真得该如此愤怒，我的愤怒是正确的吗，确实是对方做的不对，还是我自己也有问题呢？</p>
+]]></content>
+    </entry>
+</feed>
